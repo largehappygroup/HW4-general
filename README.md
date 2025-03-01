@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CS 4278/5278: Homework #4 — Instructions
 Homework Assignment #4 consists of two tasks: (1) MarsRoverAPI and (2) BowlingScoreKeeper.
 
