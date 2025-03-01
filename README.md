@@ -4,7 +4,6 @@ Homework Assignment #4 consists of two tasks: (1) MarsRoverAPI and (2) BowlingSc
 
 #### Table of Contents
 * [Important Notes](#important-notes)
-* [Task 0 Start Recording](#task-0-start-recording)
 * [Task 1 MarsRoverAPI](#task-1-marsroverapi)
 * [Task 2 BowlingScoreKeeper](#task-2-bowlingscorekeeper)
 * [Task 3 Submission](#task-3-submission)
