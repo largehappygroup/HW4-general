@@ -79,7 +79,3 @@ Congratulations, you just finished ALL tasks in this study!!!
 
 ## Task 3 Submission Check
 - A final checklist for all the files you should have submitted via Brightspace by now: (1) <VUnetID_Task1>.zip, (2) <VUnetID_Task2>.zip
-=======
-# HW4-general
-The general version repo for HW4 in CS4278
->>>>>>> df74ed2ed6a294ae7b28f8a5538caecffa3e44c8
