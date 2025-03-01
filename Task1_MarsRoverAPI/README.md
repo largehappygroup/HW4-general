@@ -3,7 +3,6 @@ MarsRoverApi
 The objective is to TEST an API that follows the movement of a planet exploration vehicle (also called a Rover) and keeps track of its position and the obstacles that it may have encountered on a tour. 
 - There is no graphical user interface.  
 - You ONLY work in `MarsRoverTest.java` and write skeleton test cases based on the requirement.
-- You have 20 minutes to work on this task (if needed, you may exceed this limit by up to 20%).
 - You are free to consult/use any online resources, including documentations, tutorials, and Q&A sites
 
 **Project Template**  

@@ -3,7 +3,6 @@ Bowling Scorekeeper
 The objective is to TEST an application that can calculate the score of a single bowling game.
 - There is no graphical user interface.  
 - You work ONLY with JUnit test cases in this project.
-- You have ONE HOUR to work on this project (if needed, you may exceed this limit by up to 20%).
 - You are free to consult/use any online resources, including documentations, tutorials, Q&A sites, and any Eclipse built-in tools or plug-ins.
  
 
