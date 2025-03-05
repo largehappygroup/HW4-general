@@ -45,7 +45,7 @@ In the tenth frame, a player who rolls a spare or strike is allowed to have bonu
 
 # Checklists
 
-**Important Note:** You are *required* to use the following checklists to improve the quality of your test suite. The screen recording you submit should demonstrate your compliance with this requirement.
+**Important Note:** You are *required* to use the following checklists to improve the quality of your test suite. 
 
 ## Test Case Checklist
 
